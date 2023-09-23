@@ -8,3 +8,4 @@ Start Time: 08:00, Average Speed: 60, Destination: xydad, Push Time: 09:25
 Start Time: 09:15, Average Speed: 55, Destination: gfgd, Push Time: 09:25
 Start Time: 08:00, Average Speed: 60, Destination: aaaaaa, Push Time: 09:58
 Start Time: 08:00, Average Speed: 60, Destination: vidyagiri, Push Time: 10:40
+Start Time: 09:00, Average Speed: 100, Destination: shetter colony, Push Time: 10:41
