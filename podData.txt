@@ -3,3 +3,5 @@ Start Time: 09:15, Average Speed: 55, Destination: Hosur, Push Time: 10:37
 Start Time: 10:30, Average Speed: 45, Destination: Kims, Push Time: 10:38
 Start Time: 02:30, Average Speed: 45, Destination: navanagar, Push Time: 10:50
 Start Time: 08:00, Average Speed: 60, Destination: Vidyanagar, Push Time: 10:55
+
+Start Time: 08:00, Average Speed: 60, Destination: xydad, Push Time: 09:25
