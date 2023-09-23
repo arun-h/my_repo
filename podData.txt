@@ -12,3 +12,4 @@ Start Time: 09:00, Average Speed: 100, Destination: shetter colony, Push Time: 1
 Start Time: 09:00, Average Speed: 100, Destination: shetter colony, Push Time: 10:46
 Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:06
 Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:11
+Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:14
