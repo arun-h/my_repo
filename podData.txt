@@ -10,3 +10,4 @@ Start Time: 08:00, Average Speed: 60, Destination: Vidyanagar, Push Time: 12:21
 Start Time: 09:15, Average Speed: 55, Destination: Hosur, Push Time: 12:22
 Start Time: 08:00, Average Speed: 60, Destination: JSS, Push Time: 08:30
 Start Time: 09:15, Average Speed: 55, Destination: Kmf, Push Time: 08:31
+Start Time: 08:00, Average Speed: 60, Destination: JSSdasdad, Push Time: 08:36
