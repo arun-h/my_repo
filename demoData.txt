@@ -8,3 +8,4 @@ Start Time: 09:00, Average Speed: 185, Destination: any, Push Time: 15:56
 Start Time: 09:00, Average Speed: 185, Destination: ansdAy, Push Time: 18:30
 Start Time: 09:00, Average Speed: 185, Destination: Mysrr, Push Time: 19:25
 Start Time: 09:00, Average Speed: 185, Destination: Dubai, Push Time: 19:27
+Start Time: 09:00, Average Speed: 185, Destination: Blor, Push Time: 19:28
