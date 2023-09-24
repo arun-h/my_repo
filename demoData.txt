@@ -11,3 +11,4 @@ Start Time: 09:00, Average Speed: 185, Destination: Dubai, Push Time: 19:27
 Start Time: 09:00, Average Speed: 185, Destination: Blor, Push Time: 19:28
 Start Time: 09:00, Average Speed: 185, Destination: Denmark, Push Time: 19:39
 Start Time: 09:00, Average Speed: 185, Destination: Blor, Push Time: 19:40
+Start Time: 09:00, Average Speed: 185, Destination: Switz, Push Time: 19:41
