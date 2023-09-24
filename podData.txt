@@ -14,3 +14,4 @@ Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:06
 Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:11
 Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:14
 Start Time: 09:00, Average Speed: 185, Destination: sfjhfetteCny, Push Time: 11:16
+Start Time: 09:00, Average Speed: 185, Destination: ny, Push Time: 12:07
