@@ -5,3 +5,4 @@ Start Time: 09:00, Average Speed: 185, Destination: znjky, Push Time: 15:52
 Start Time: 09:00, Average Speed: 185, Destination: any, Push Time: 15:53
 Start Time: 09:00, Average Speed: 185, Destination: znmy, Push Time: 15:55
 Start Time: 09:00, Average Speed: 185, Destination: any, Push Time: 15:56
+Start Time: 09:00, Average Speed: 185, Destination: ansdAy, Push Time: 18:30
