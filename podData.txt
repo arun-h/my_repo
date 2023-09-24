@@ -22,3 +22,4 @@ Start Time: 09:00, Average Speed: 185, Destination: XXXansdAy, Push Time: 18:33
 Start Time: 09:00, Average Speed: 185, Destination: YZZXXansdAy, Push Time: 18:37
 Start Time: 09:00, Average Speed: 185, Destination: Mys, Push Time: 18:41
 Start Time: 09:00, Average Speed: 185, Destination: Blor, Push Time: 18:51
+Start Time: 09:00, Average Speed: 185, Destination: Mys, Push Time: 18:53
