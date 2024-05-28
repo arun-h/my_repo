@@ -1,2 +1,3 @@
 Start Time: 09:00, Average Speed: 185, Destination: mangalore, Push Time: 10:53
 Start Time: 09:00, Average Speed: 85, Destination: JSS clg, Push Time: 11:07
+Start Time: 09:20, Average Speed: 55, Destination: Tollnaka, Push Time: 11:09
