@@ -1,0 +1,25 @@
+Start Time: 08:00, Average Speed: 60, Destination: Vidyanagar, Push Time: 10:36
+Start Time: 09:15, Average Speed: 55, Destination: Hosur, Push Time: 10:37
+Start Time: 10:30, Average Speed: 45, Destination: Kims, Push Time: 10:38
+Start Time: 02:30, Average Speed: 45, Destination: navanagar, Push Time: 10:50
+Start Time: 08:00, Average Speed: 60, Destination: Vidyanagar, Push Time: 10:55
+
+Start Time: 08:00, Average Speed: 60, Destination: xydad, Push Time: 09:25
+Start Time: 09:15, Average Speed: 55, Destination: gfgd, Push Time: 09:25
+Start Time: 08:00, Average Speed: 60, Destination: aaaaaa, Push Time: 09:58
+Start Time: 08:00, Average Speed: 60, Destination: vidyagiri, Push Time: 10:40
+Start Time: 09:00, Average Speed: 100, Destination: shetter colony, Push Time: 10:41
+Start Time: 09:00, Average Speed: 100, Destination: shetter colony, Push Time: 10:46
+Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:06
+Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:11
+Start Time: 09:00, Average Speed: 185, Destination: shetteCny, Push Time: 11:14
+Start Time: 09:00, Average Speed: 185, Destination: sfjhfetteCny, Push Time: 11:16
+Start Time: 09:00, Average Speed: 185, Destination: ny, Push Time: 12:07
+Start Time: 09:00, Average Speed: 185, Destination: ny, Push Time: 12:09
+Start Time: 09:00, Average Speed: 185, Destination: any, Push Time: 12:15
+Start Time: 09:00, Average Speed: 185, Destination: zny, Push Time: 12:17
+Start Time: 09:00, Average Speed: 185, Destination: XXXansdAy, Push Time: 18:33
+Start Time: 09:00, Average Speed: 185, Destination: YZZXXansdAy, Push Time: 18:37
+Start Time: 09:00, Average Speed: 185, Destination: Mys, Push Time: 18:41
+Start Time: 09:00, Average Speed: 185, Destination: Blor, Push Time: 18:51
+Start Time: 09:00, Average Speed: 185, Destination: Mys, Push Time: 18:53

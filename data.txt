@@ -1,0 +1,4 @@
+Start Time: 08:00, Average Speed: 60, Destination: New York, Push Time: 11:05
+Start Time: 08:00, Average Speed: 60, Destination: New York, Push Time: 11:40
+Start Time: 09:15, Average Speed: 55, Destination: Los Angeles, Push Time: 11:42
+Start Time: 10:30, Average Speed: 45, Destination: Chicago, Push Time: 11:45
